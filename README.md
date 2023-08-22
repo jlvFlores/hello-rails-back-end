@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-The project is a lesson on how to setup a rails app with react.
+The project is a lesson on how to setup a rails app to work as a back end for a React app.
 
 <a name="readme-top"></a>
 
@@ -31,7 +31,7 @@ The project is a lesson on how to setup a rails app with react.
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**Hello-rails-back-end** is an API created to be intergarted with the [hello-react-front-end]() project.
+**Hello-rails-back-end** is an API back-end created to be intergarted with the [hello-react-front-end](https://github.com/jlvFlores/hello-react-front-end) project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
