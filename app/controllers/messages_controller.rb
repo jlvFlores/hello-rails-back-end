@@ -1,5 +1,5 @@
 class MessagesController < ApplicationController
-  before_action :set_message, only: %i[ show update destroy ]
+  before_action :set_message, only: %i[show update destroy]
 
   def index
     message = Message.order('RANDOM()').first
